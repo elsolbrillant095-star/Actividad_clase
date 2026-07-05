@@ -1,6 +1,6 @@
 
 
-print("Hey! Jarvis here! I have somethings we can do together. But first, what is your name?")
+print("Hey! Jarvis here! I have some things we can do together. But first, what is your name?")
 name = input("Name: ")
 print(f"Nice to meet you, {name}! Now let's get started. Do you want to know about a new fact, play a game or do you want to hear a joke?")
 answer = input("Type 'fact', 'game', or 'joke': ").lower()
